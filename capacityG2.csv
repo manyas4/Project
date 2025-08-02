@@ -1,0 +1,194 @@
+State,Year,Source,Capacity (in MW),Generation (in MU)
+Andhra Pradesh,2025-26,Coal,13190,13083.03
+Andhra Pradesh,2025-26,Oil & Gas,1776.2,64.85
+Andhra Pradesh,2025-26,Hydro,1610,290.09
+Andhra Pradesh,2025-26,Solar,5434.38,1461.89
+Andhra Pradesh,2025-26,Wind,4397.78,1202.35
+Andhra Pradesh,2025-26,Small Hydro,163.31,24.72
+Andhra Pradesh,2025-26,Bio Power,594.02,35.2
+Andaman and Nicobar Islands,2024-25,Oil & Gas,92.71,374.18
+Andaman and Nicobar Islands,2024-25,Solar,29.91,24.59
+Andaman and Nicobar Islands,2024-25,Small Hydro,5.25,14.4
+Andaman and Nicobar Islands,2024-25,Bio Power,,0
+Assam,2025-26,Coal,750,700.38
+Assam,2025-26,Oil & Gas,597.36,535.27
+Assam,2025-26,Hydro,350,125.65
+Assam,2025-26,Solar,230.74,45.82
+Assam,2025-26,Small Hydro,34.11,12.51
+Assam,2025-26,Bio Power,2,0.01
+Assam,2025-26,Wind,,0
+Bihar,2025-26,Coal,8850,10009.01
+Bihar,2025-26,Solar,328.34,62.41
+Bihar,2025-26,Small Hydro,70.7,2.61
+Bihar,2025-26,Bio Power,140.22,1.16
+Bihar,2025-26,Wind,,0
+Chandigarh,2025-26,Solar,78.85,0.4
+Chandigarh,2025-26,Wind,,
+Chandigarh,2025-26,Small Hydro,,
+Chandigarh,2025-26,Bio Power,,
+Chhattisgarh,2025-26,Coal,23493,28228.12
+Chhattisgarh,2025-26,Hydro,120,38.07
+Chhattisgarh,2025-26,Solar,1398.5,283.82
+Chhattisgarh,2025-26,Small Hydro,76,5.17
+Chhattisgarh,2025-26,Bio Power,285.42,107.31
+Chhattisgarh,2025-26,Wind,,0
+Delhi,2025-26,Oil & Gas,2100.4,718.45
+Delhi,2025-26,Solar,334.5,17.21
+Delhi,2025-26,Bio Power,84,41.41
+Delhi,2025-26,Wind,,0
+Delhi,2025-26,Small Hydro,,0
+Goa,2025-26,Solar,58.34,4.76
+Goa,2025-26,Small Hydro,0.05,0
+Goa,2025-26,Bio Power,1.94,0.68
+Goa,2025-26,Wind,,0
+Gujarat,2025-26,Coal,16092,14976.43
+Gujarat,2025-26,Oil & Gas,6580.31,1794.71
+Gujarat,2025-26,Nuclear,1840,2422.38
+Gujarat,2025-26,Hydro,1990,386.89
+Gujarat,2025-26,Solar,20093.26,5077.56
+Gujarat,2025-26,Wind,13624.78,5729.29
+Gujarat,2025-26,Small Hydro,106.64,10.88
+Gujarat,2025-26,Bio Power,129.85,9.65
+Haryana,2025-26,Coal,5330,4618.73
+Haryana,2025-26,Oil & Gas,431.59,46.08
+Haryana,2025-26,Solar,2107.82,150.1
+Haryana,2025-26,Small Hydro,73.5,37.34
+Haryana,2025-26,Bio Power,311.47,35.19
+Haryana,2025-26,Wind,,0
+Himachal Pradesh,2025-26,Hydro,11181.01,7482.2
+Himachal Pradesh,2025-26,Solar,217.22,29.38
+Himachal Pradesh,2025-26,Small Hydro,1000.71,208.66
+Himachal Pradesh,2025-26,Bio Power,10.2,0
+Himachal Pradesh,2025-26,Wind,,0
+Jammu and Kashmir,2025-26,Hydro,3360,3660.62
+Jammu and Kashmir,2025-26,Solar,74.49,0
+Jammu and Kashmir,2025-26,Small Hydro,189.93,58.54
+Jammu and Kashmir,2025-26,Wind,,0
+Jammu and Kashmir,2025-26,Bio Power,,0
+Karnataka,2025-26,Coal,9480,7701.28
+Karnataka,2025-26,Oil & Gas,395.25,213.88
+Karnataka,2025-26,Nuclear,880,1014.92
+Karnataka,2025-26,Hydro,3689.2,2363.72
+Karnataka,2025-26,Solar,9876.57,2885.11
+Karnataka,2025-26,Wind,7605.84,1820.7
+Karnataka,2025-26,Small Hydro,1284.73,63.74
+Karnataka,2025-26,Bio Power,1916.05,94.06
+Kerala,2025-26,Oil & Gas,519.54,0
+Kerala,2025-26,Hydro,1964.15,1207.69
+Kerala,2025-26,Solar,1723.64,231.86
+Kerala,2025-26,Wind,71.27,18.49
+Kerala,2025-26,Small Hydro,276.52,41.37
+Kerala,2025-26,Bio Power,2.5,6.61
+Madhya Pradesh,2025-26,Coal,21170,24536.1
+Madhya Pradesh,2025-26,Hydro,2235,467.28
+Madhya Pradesh,2025-26,Solar,5265.37,1596.07
+Madhya Pradesh,2025-26,Wind,3195.15,933.49
+Madhya Pradesh,2025-26,Small Hydro,123.71,31.71
+Madhya Pradesh,2025-26,Bio Power,155.46,24.12
+Maharashtra,2025-26,Coal,23316,23544.85
+Maharashtra,2025-26,Oil & Gas,2819.08,915.34
+Maharashtra,2025-26,Nuclear,1400,1408.23
+Maharashtra,2025-26,Hydro,3047,1409
+Maharashtra,2025-26,Solar,11827.63,1486.2
+Maharashtra,2025-26,Wind,5291.21,1178.08
+Maharashtra,2025-26,Small Hydro,384.28,83.81
+Maharashtra,2025-26,Bio Power,2998.3,138.06
+Manipur,2025-26,Oil & Gas,36,0
+Manipur,2025-26,Hydro,105,29.41
+Manipur,2025-26,Solar,13.79,0.74
+Manipur,2025-26,Small Hydro,5.45,0
+Manipur,2025-26,Wind,,0
+Manipur,2025-26,Bio Power,,0
+Meghalaya,2025-26,Hydro,322,161.95
+Meghalaya,2025-26,Solar,4.28,0
+Meghalaya,2025-26,Small Hydro,55.03,9.02
+Meghalaya,2025-26,Bio Power,13.8,0
+Meghalaya,2025-26,Wind,,0
+Mizoram,2025-26,Hydro,60,9.96
+Mizoram,2025-26,Solar,30.39,6.1
+Mizoram,2025-26,Small Hydro,45.47,2.76
+Mizoram,2025-26,Wind,,0
+Mizoram,2025-26,Bio Power,,0
+Nagaland,2025-26,Hydro,75,5.58
+Nagaland,2025-26,Solar,3.17,0
+Nagaland,2025-26,Small Hydro,32.67,1.67
+Nagaland,2025-26,Wind,,0
+Nagaland,2025-26,Bio Power,,0
+Odisha,2025-26,Coal,9950,12638.15
+Odisha,2025-26,Hydro,2154.55,726.66
+Odisha,2025-26,Solar,701.74,147.81
+Odisha,2025-26,Small Hydro,115.63,17.64
+Odisha,2025-26,Bio Power,64.22,2.3
+Odisha,2025-26,Wind,,0
+Puducherry,2025-26,Oil & Gas,32.5,8.25
+Puducherry,2025-26,Solar,67.51,2.8
+Puducherry,2025-26,Wind,,0
+Puducherry,2025-26,Small Hydro,,0
+Puducherry,2025-26,Bio Power,,0
+Punjab,2025-26,Coal,5680,5717.56
+Punjab,2025-26,Hydro,1096.3,377.63
+Punjab,2025-26,Solar,1421.43,257.79
+Punjab,2025-26,Small Hydro,176.1,15.63
+Punjab,2025-26,Bio Power,576.59,98.87
+Punjab,2025-26,Wind,,0
+Rajasthan,2025-26,Coal,10780,10157.27
+Rajasthan,2025-26,Oil & Gas,1022.83,169.6
+Rajasthan,2025-26,Nuclear,1780,1546.28
+Rajasthan,2025-26,Hydro,411,11.96
+Rajasthan,2025-26,Solar,29546.7,11156.12
+Rajasthan,2025-26,Wind,5208.75,1595.62
+Rajasthan,2025-26,Small Hydro,23.85,0
+Rajasthan,2025-26,Bio Power,206.27,64.62
+Sikkim,2025-26,Hydro,2282,311.4
+Sikkim,2025-26,Solar,7.56,0
+Sikkim,2025-26,Small Hydro,55.11,1.03
+Sikkim,2025-26,Wind,,0
+Sikkim,2025-26,Bio Power,,0
+Tamil Nadu,2025-26,Coal,14162.5,10364.6
+Tamil Nadu,2025-26,Oil & Gas,1056.28,224
+Tamil Nadu,2025-26,Nuclear,2440,3296.36
+Tamil Nadu,2025-26,Hydro,2178.2,437.51
+Tamil Nadu,2025-26,Solar,10433.27,2753.92
+Tamil Nadu,2025-26,Wind,11765.07,2783.16
+Tamil Nadu,2025-26,Small Hydro,123.05,8.53
+Tamil Nadu,2025-26,Bio Power,1046.62,17.78
+Telangana,2025-26,Coal,10242.5,10439.23
+Telangana,2025-26,Hydro,2405.6,137.92
+Telangana,2025-26,Solar,4842.1,1226.99
+Telangana,2025-26,Wind,128.1,37.63
+Telangana,2025-26,Small Hydro,90.87,1.04
+Telangana,2025-26,Bio Power,221.67,22.25
+Tripura,2025-26,Oil & Gas,1067.6,866.1
+Tripura,2025-26,Solar,21.24,0.66
+Tripura,2025-26,Small Hydro,16.01,0
+Tripura,2025-26,Wind,,0
+Tripura,2025-26,Bio Power,,0
+Uttarakhand,2025-26,Oil & Gas,664,196.57
+Uttarakhand,2025-26,Hydro,4035.35,2059.32
+Uttarakhand,2025-26,Solar,593.07,46.93
+Uttarakhand,2025-26,Small Hydro,233.82,29.45
+Uttarakhand,2025-26,Bio Power,148.53,20.71
+Uttarakhand,2025-26,Wind,,0
+Uttar Pradesh,2025-26,Coal,28035,29080.33
+Uttar Pradesh,2025-26,Oil & Gas,1493.14,234.09
+Uttar Pradesh,2025-26,Nuclear,440,379.74
+Uttar Pradesh,2025-26,Hydro,501.6,117.55
+Uttar Pradesh,2025-26,Solar,3376.74,1019.86
+Uttar Pradesh,2025-26,Small Hydro,50.6,0.3
+Uttar Pradesh,2025-26,Bio Power,2309.14,167.63
+Uttar Pradesh,2025-26,Wind,,0
+West Bengal,2025-26,Coal,13247,15442.66
+West Bengal,2025-26,Hydro,1341.2,360.81
+West Bengal,2025-26,Solar,320.62,43.57
+West Bengal,2025-26,Small Hydro,98.5,17.45
+West Bengal,2025-26,Bio Power,351.86,127.34
+West Bengal,2025-26,Wind,,0
+Arunachal Pradesh,2025-26,Hydro,1115,1086.81
+Arunachal Pradesh,2025-26,Solar,14.85,1.15
+Arunachal Pradesh,2025-26,Small Hydro,140.61,0.08
+Arunachal Pradesh,2025-26,Bio Power,,0
+Jharkhand,2025-26,Coal,5680,8932.51
+Jharkhand,2025-26,Hydro,1096.3,852.58
+Jharkhand,2025-26,Solar,1427.23,401.69
+Jharkhand,2025-26,Small Hydro,176.1,45.85
+Jharkhand,2025-26,Bio Power,576.59,174.44

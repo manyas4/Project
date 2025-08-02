@@ -1,0 +1,371 @@
+State,Source,Capacity Type,Capacity (in MW)
+All India,Hydro,Potential Capacity,309690
+All India,Hydro,Installed Capacity,47928.16
+All India,Wind,Potential Capacity,1163856
+All India,Wind,Installed Capacity,51292.25
+All India,Solar,Potential Capacity,748990
+All India,Solar,Installed Capacity,110834.28
+All India,Bio Power,Potential Capacity,42263
+All India,Bio Power,Installed Capacity,11594.02
+All India,Small-Hydro,Potential Capacity,21133.61
+All India,Small-Hydro,Installed Capacity,5102.05
+Andaman and Nicobar Islands,Hydro,Potential Capacity,0
+Andaman and Nicobar Islands,Hydro,Installed Capacity,0
+Andaman and Nicobar Islands,Wind,Potential Capacity,1245
+Andaman and Nicobar Islands,Wind,Installed Capacity,0
+Andaman and Nicobar Islands,Solar,Potential Capacity,0
+Andaman and Nicobar Islands,Solar,Installed Capacity,30.62
+Andaman and Nicobar Islands,Bio Power,Potential Capacity,2297
+Andaman and Nicobar Islands,Bio Power,Installed Capacity,0
+Andaman and Nicobar Islands,Small-Hydro,Potential Capacity,7.27
+Andaman and Nicobar Islands,Small-Hydro,Installed Capacity,5.25
+Andhra Pradesh,Hydro,Potential Capacity,29016
+Andhra Pradesh,Hydro,Installed Capacity,2810
+Andhra Pradesh,Wind,Potential Capacity,123336
+Andhra Pradesh,Wind,Installed Capacity,4397.78
+Andhra Pradesh,Solar,Potential Capacity,38440
+Andhra Pradesh,Solar,Installed Capacity,5507.48
+Andhra Pradesh,Bio Power,Potential Capacity,2279
+Andhra Pradesh,Bio Power,Installed Capacity,594.02
+Andhra Pradesh,Small-Hydro,Potential Capacity,409.32
+Andhra Pradesh,Small-Hydro,Installed Capacity,163.31
+Arunachal Pradesh,Hydro,Potential Capacity,51054
+Arunachal Pradesh,Hydro,Installed Capacity,1115
+Arunachal Pradesh,Wind,Potential Capacity,246
+Arunachal Pradesh,Wind,Installed Capacity,0
+Arunachal Pradesh,Solar,Potential Capacity,8650
+Arunachal Pradesh,Solar,Installed Capacity,14.85
+Arunachal Pradesh,Bio Power,Potential Capacity,340
+Arunachal Pradesh,Bio Power,Installed Capacity,0
+Arunachal Pradesh,Small-Hydro,Potential Capacity,2064.92
+Arunachal Pradesh,Small-Hydro,Installed Capacity,140.61
+Assam,Hydro,Potential Capacity,963
+Assam,Hydro,Installed Capacity,350
+Assam,Wind,Potential Capacity,459
+Assam,Wind,Installed Capacity,0
+Assam,Solar,Potential Capacity,13760
+Assam,Solar,Installed Capacity,243.34
+Assam,Bio Power,Potential Capacity,322
+Assam,Bio Power,Installed Capacity,2
+Assam,Small-Hydro,Potential Capacity,201.99
+Assam,Small-Hydro,Installed Capacity,34.11
+Bihar,Hydro,Potential Capacity,130
+Bihar,Hydro,Installed Capacity,0
+Bihar,Wind,Potential Capacity,4023
+Bihar,Wind,Installed Capacity,0
+Bihar,Solar,Potential Capacity,11200
+Bihar,Solar,Installed Capacity,328.34
+Bihar,Bio Power,Potential Capacity,1311
+Bihar,Bio Power,Installed Capacity,140.22
+Bihar,Small-Hydro,Potential Capacity,526.98
+Bihar,Small-Hydro,Installed Capacity,70.7
+Chandigarh,Hydro,Potential Capacity,0
+Chandigarh,Hydro,Installed Capacity,0
+Chandigarh,Wind,Potential Capacity,0
+Chandigarh,Wind,Installed Capacity,0
+Chandigarh,Solar,Potential Capacity,0
+Chandigarh,Solar,Installed Capacity,78.85
+Chandigarh,Bio Power,Potential Capacity,0
+Chandigarh,Bio Power,Installed Capacity,0
+Chandigarh,Small-Hydro,Potential Capacity,0
+Chandigarh,Small-Hydro,Installed Capacity,0
+Chhattisgarh,Hydro,Potential Capacity,10236
+Chhattisgarh,Hydro,Installed Capacity,120
+Chhattisgarh,Wind,Potential Capacity,2749
+Chhattisgarh,Wind,Installed Capacity,0
+Chhattisgarh,Solar,Potential Capacity,18270
+Chhattisgarh,Solar,Installed Capacity,1491.3
+Chhattisgarh,Bio Power,Potential Capacity,354
+Chhattisgarh,Bio Power,Installed Capacity,285.42
+Chhattisgarh,Small-Hydro,Potential Capacity,1098.2
+Chhattisgarh,Small-Hydro,Installed Capacity,76
+Dadra and Nagar Haveli and Daman and Diu,Hydro,Potential Capacity,0
+Dadra and Nagar Haveli and Daman and Diu,Hydro,Installed Capacity,0
+Dadra and Nagar Haveli and Daman and Diu,Wind,Potential Capacity,17
+Dadra and Nagar Haveli and Daman and Diu,Wind,Installed Capacity,0
+Dadra and Nagar Haveli and Daman and Diu,Solar,Potential Capacity,0
+Dadra and Nagar Haveli and Daman and Diu,Solar,Installed Capacity,97.9
+Dadra and Nagar Haveli and Daman and Diu,Bio Power,Potential Capacity,2
+Dadra and Nagar Haveli and Daman and Diu,Bio Power,Installed Capacity,3.75
+Dadra and Nagar Haveli and Daman and Diu,Small-Hydro,Potential Capacity,0
+Dadra and Nagar Haveli and Daman and Diu,Small-Hydro,Installed Capacity,0
+Delhi,Hydro,Potential Capacity,0
+Delhi,Hydro,Installed Capacity,0
+Delhi,Wind,Potential Capacity,0
+Delhi,Wind,Installed Capacity,0
+Delhi,Solar,Potential Capacity,2050
+Delhi,Solar,Installed Capacity,344.3
+Delhi,Bio Power,Potential Capacity,0
+Delhi,Bio Power,Installed Capacity,84
+Delhi,Small-Hydro,Potential Capacity,0
+Delhi,Small-Hydro,Installed Capacity,0
+Goa,Hydro,Potential Capacity,0
+Goa,Hydro,Installed Capacity,0
+Goa,Wind,Potential Capacity,14
+Goa,Wind,Installed Capacity,0
+Goa,Solar,Potential Capacity,880
+Goa,Solar,Installed Capacity,60.04
+Goa,Bio Power,Potential Capacity,33
+Goa,Bio Power,Installed Capacity,1.94
+Goa,Small-Hydro,Potential Capacity,4.7
+Goa,Small-Hydro,Installed Capacity,0.05
+Gujarat,Hydro,Potential Capacity,6690
+Gujarat,Hydro,Installed Capacity,1990
+Gujarat,Wind,Potential Capacity,180790
+Gujarat,Wind,Installed Capacity,13816.68
+Gujarat,Solar,Potential Capacity,35770
+Gujarat,Solar,Installed Capacity,21451.33
+Gujarat,Bio Power,Potential Capacity,3193
+Gujarat,Bio Power,Installed Capacity,129.85
+Gujarat,Small-Hydro,Potential Capacity,201.97
+Gujarat,Small-Hydro,Installed Capacity,106.64
+Haryana,Hydro,Potential Capacity,0
+Haryana,Hydro,Installed Capacity,0
+Haryana,Wind,Potential Capacity,593
+Haryana,Wind,Installed Capacity,0
+Haryana,Solar,Potential Capacity,4560
+Haryana,Solar,Installed Capacity,2151.39
+Haryana,Bio Power,Potential Capacity,1715
+Haryana,Bio Power,Installed Capacity,311.47
+Haryana,Small-Hydro,Potential Capacity,107.4
+Haryana,Small-Hydro,Installed Capacity,73.5
+Himachal Pradesh,Hydro,Potential Capacity,25565
+Himachal Pradesh,Hydro,Installed Capacity,11181.01
+Himachal Pradesh,Wind,Potential Capacity,239
+Himachal Pradesh,Wind,Installed Capacity,0
+Himachal Pradesh,Solar,Potential Capacity,33840
+Himachal Pradesh,Solar,Installed Capacity,251.9
+Himachal Pradesh,Bio Power,Potential Capacity,70
+Himachal Pradesh,Bio Power,Installed Capacity,10.2
+Himachal Pradesh,Small-Hydro,Potential Capacity,3460.34
+Himachal Pradesh,Small-Hydro,Installed Capacity,1000.71
+Jammu and Kashmir,Hydro,Potential Capacity,12264
+Jammu and Kashmir,Hydro,Installed Capacity,3360
+Jammu and Kashmir,Wind,Potential Capacity,0
+Jammu and Kashmir,Wind,Installed Capacity,0
+Jammu and Kashmir,Solar,Potential Capacity,111050
+Jammu and Kashmir,Solar,Installed Capacity,74.49
+Jammu and Kashmir,Bio Power,Potential Capacity,83
+Jammu and Kashmir,Bio Power,Installed Capacity,0
+Jammu and Kashmir,Small-Hydro,Potential Capacity,1311.79
+Jammu and Kashmir,Small-Hydro,Installed Capacity,189.93
+Jharkhand,Hydro,Potential Capacity,1800
+Jharkhand,Hydro,Installed Capacity,210
+Jharkhand,Wind,Potential Capacity,16
+Jharkhand,Wind,Installed Capacity,0
+Jharkhand,Solar,Potential Capacity,18180
+Jharkhand,Solar,Installed Capacity,199.87
+Jharkhand,Bio Power,Potential Capacity,146
+Jharkhand,Bio Power,Installed Capacity,20.14
+Jharkhand,Small-Hydro,Potential Capacity,227.96
+Jharkhand,Small-Hydro,Installed Capacity,4.05
+Karnataka,Hydro,Potential Capacity,12014
+Karnataka,Hydro,Installed Capacity,3689.2
+Karnataka,Wind,Potential Capacity,169251
+Karnataka,Wind,Installed Capacity,7714.74
+Karnataka,Solar,Potential Capacity,24700
+Karnataka,Solar,Installed Capacity,9925.44
+Karnataka,Bio Power,Potential Capacity,3556
+Karnataka,Bio Power,Installed Capacity,1916.05
+Karnataka,Small-Hydro,Potential Capacity,3726.49
+Karnataka,Small-Hydro,Installed Capacity,1284.73
+Kerala,Hydro,Potential Capacity,3673
+Kerala,Hydro,Installed Capacity,1964.15
+Kerala,Wind,Potential Capacity,2621
+Kerala,Wind,Installed Capacity,71.27
+Kerala,Solar,Potential Capacity,6110
+Kerala,Solar,Installed Capacity,1787.94
+Kerala,Bio Power,Potential Capacity,778
+Kerala,Bio Power,Installed Capacity,2.5
+Kerala,Small-Hydro,Potential Capacity,647.15
+Kerala,Small-Hydro,Installed Capacity,276.52
+Ladakh,Hydro,Potential Capacity,707
+Ladakh,Hydro,Installed Capacity,89
+Ladakh,Wind,Potential Capacity,1
+Ladakh,Wind,Installed Capacity,0
+Ladakh,Solar,Potential Capacity,0
+Ladakh,Solar,Installed Capacity,7.8
+Ladakh,Bio Power,Potential Capacity,0
+Ladakh,Bio Power,Installed Capacity,0
+Ladakh,Small-Hydro,Potential Capacity,395.65
+Ladakh,Small-Hydro,Installed Capacity,45.79
+Lakshadweep,Hydro,Potential Capacity,0
+Lakshadweep,Hydro,Installed Capacity,0
+Lakshadweep,Wind,Potential Capacity,31
+Lakshadweep,Wind,Installed Capacity,0
+Lakshadweep,Solar,Potential Capacity,0
+Lakshadweep,Solar,Installed Capacity,4.97
+Lakshadweep,Bio Power,Potential Capacity,2517
+Lakshadweep,Bio Power,Installed Capacity,0
+Lakshadweep,Small-Hydro,Potential Capacity,0
+Lakshadweep,Small-Hydro,Installed Capacity,0
+Madhya Pradesh,Hydro,Potential Capacity,11379
+Madhya Pradesh,Hydro,Installed Capacity,2235
+Madhya Pradesh,Wind,Potential Capacity,55423
+Madhya Pradesh,Wind,Installed Capacity,3195.15
+Madhya Pradesh,Solar,Potential Capacity,61660
+Madhya Pradesh,Solar,Installed Capacity,5570.07
+Madhya Pradesh,Bio Power,Potential Capacity,2516
+Madhya Pradesh,Bio Power,Installed Capacity,155.46
+Madhya Pradesh,Small-Hydro,Potential Capacity,820.44
+Madhya Pradesh,Small-Hydro,Installed Capacity,123.71
+Maharashtra,Hydro,Potential Capacity,46099
+Maharashtra,Hydro,Installed Capacity,3047
+Maharashtra,Wind,Potential Capacity,173868
+Maharashtra,Wind,Installed Capacity,5307.71
+Maharashtra,Solar,Potential Capacity,64320
+Maharashtra,Solar,Installed Capacity,12575.27
+Maharashtra,Bio Power,Potential Capacity,6547
+Maharashtra,Bio Power,Installed Capacity,2998.3
+Maharashtra,Small-Hydro,Potential Capacity,786.46
+Maharashtra,Small-Hydro,Installed Capacity,384.28
+Manipur,Hydro,Potential Capacity,615
+Manipur,Hydro,Installed Capacity,105
+Manipur,Wind,Potential Capacity,0
+Manipur,Wind,Installed Capacity,0
+Manipur,Solar,Potential Capacity,10630
+Manipur,Solar,Installed Capacity,13.79
+Manipur,Bio Power,Potential Capacity,62
+Manipur,Bio Power,Installed Capacity,0
+Manipur,Small-Hydro,Potential Capacity,99.95
+Manipur,Small-Hydro,Installed Capacity,5.45
+Meghalaya,Hydro,Potential Capacity,2026
+Meghalaya,Hydro,Installed Capacity,322
+Meghalaya,Wind,Potential Capacity,55
+Meghalaya,Wind,Installed Capacity,0
+Meghalaya,Solar,Potential Capacity,5860
+Meghalaya,Solar,Installed Capacity,4.28
+Meghalaya,Bio Power,Potential Capacity,69
+Meghalaya,Bio Power,Installed Capacity,13.8
+Meghalaya,Small-Hydro,Potential Capacity,230.05
+Meghalaya,Small-Hydro,Installed Capacity,55.03
+Mizoram,Hydro,Potential Capacity,7477
+Mizoram,Hydro,Installed Capacity,60
+Mizoram,Wind,Potential Capacity,0
+Mizoram,Wind,Installed Capacity,0
+Mizoram,Solar,Potential Capacity,9090
+Mizoram,Solar,Installed Capacity,30.39
+Mizoram,Bio Power,Potential Capacity,3
+Mizoram,Bio Power,Installed Capacity,0
+Mizoram,Small-Hydro,Potential Capacity,168.9
+Mizoram,Small-Hydro,Installed Capacity,45.47
+Nagaland,Hydro,Potential Capacity,325
+Nagaland,Hydro,Installed Capacity,75
+Nagaland,Wind,Potential Capacity,0
+Nagaland,Wind,Installed Capacity,0
+Nagaland,Solar,Potential Capacity,7290
+Nagaland,Solar,Installed Capacity,3.17
+Nagaland,Bio Power,Potential Capacity,353
+Nagaland,Bio Power,Installed Capacity,0
+Nagaland,Small-Hydro,Potential Capacity,182.18
+Nagaland,Small-Hydro,Installed Capacity,32.67
+Odisha,Hydro,Potential Capacity,7620
+Odisha,Hydro,Installed Capacity,2154.55
+Odisha,Wind,Potential Capacity,12129
+Odisha,Wind,Installed Capacity,0
+Odisha,Solar,Potential Capacity,25780
+Odisha,Solar,Installed Capacity,706.34
+Odisha,Bio Power,Potential Capacity,299
+Odisha,Bio Power,Installed Capacity,64.22
+Odisha,Small-Hydro,Potential Capacity,286.22
+Odisha,Small-Hydro,Installed Capacity,115.63
+Others,Hydro,Potential Capacity,0
+Others,Hydro,Installed Capacity,0
+Others,Wind,Potential Capacity,0
+Others,Wind,Installed Capacity,4.3
+Others,Solar,Potential Capacity,790
+Others,Solar,Installed Capacity,45.01
+Others,Bio Power,Potential Capacity,284
+Others,Bio Power,Installed Capacity,0
+Others,Small-Hydro,Potential Capacity,0
+Others,Small-Hydro,Installed Capacity,0
+Puducherry,Hydro,Potential Capacity,0
+Puducherry,Hydro,Installed Capacity,0
+Puducherry,Wind,Potential Capacity,408
+Puducherry,Wind,Installed Capacity,0
+Puducherry,Solar,Potential Capacity,0
+Puducherry,Solar,Installed Capacity,69.01
+Puducherry,Bio Power,Potential Capacity,5
+Puducherry,Bio Power,Installed Capacity,0
+Puducherry,Small-Hydro,Potential Capacity,0
+Puducherry,Small-Hydro,Installed Capacity,0
+Punjab,Hydro,Potential Capacity,1301
+Punjab,Hydro,Installed Capacity,1096.3
+Punjab,Wind,Potential Capacity,428
+Punjab,Wind,Installed Capacity,0
+Punjab,Solar,Potential Capacity,2810
+Punjab,Solar,Installed Capacity,1427.23
+Punjab,Bio Power,Potential Capacity,3436
+Punjab,Bio Power,Installed Capacity,576.59
+Punjab,Small-Hydro,Potential Capacity,578.28
+Punjab,Small-Hydro,Installed Capacity,176.1
+Rajasthan,Hydro,Potential Capacity,9611
+Rajasthan,Hydro,Installed Capacity,411
+Rajasthan,Wind,Potential Capacity,284250
+Rajasthan,Wind,Installed Capacity,5208.75
+Rajasthan,Solar,Potential Capacity,142310
+Rajasthan,Solar,Installed Capacity,31967.69
+Rajasthan,Bio Power,Potential Capacity,1300
+Rajasthan,Bio Power,Installed Capacity,207.52
+Rajasthan,Small-Hydro,Potential Capacity,51.67
+Rajasthan,Small-Hydro,Installed Capacity,23.85
+Sikkim,Hydro,Potential Capacity,6051
+Sikkim,Hydro,Installed Capacity,2282
+Sikkim,Wind,Potential Capacity,0
+Sikkim,Wind,Installed Capacity,0
+Sikkim,Solar,Potential Capacity,4940
+Sikkim,Solar,Installed Capacity,7.56
+Sikkim,Bio Power,Potential Capacity,2204
+Sikkim,Bio Power,Installed Capacity,0
+Sikkim,Small-Hydro,Potential Capacity,266.64
+Sikkim,Small-Hydro,Installed Capacity,55.11
+Tamil Nadu,Hydro,Potential Capacity,18285
+Tamil Nadu,Hydro,Installed Capacity,2178.2
+Tamil Nadu,Wind,Potential Capacity,95107
+Tamil Nadu,Wind,Installed Capacity,11830.37
+Tamil Nadu,Solar,Potential Capacity,17670
+Tamil Nadu,Solar,Installed Capacity,10570.88
+Tamil Nadu,Bio Power,Potential Capacity,2199
+Tamil Nadu,Bio Power,Installed Capacity,1046.62
+Tamil Nadu,Small-Hydro,Potential Capacity,604.46
+Tamil Nadu,Small-Hydro,Installed Capacity,123.05
+Telangana,Hydro,Potential Capacity,10057
+Telangana,Hydro,Installed Capacity,2405.6
+Telangana,Wind,Potential Capacity,54717
+Telangana,Wind,Installed Capacity,128.1
+Telangana,Solar,Potential Capacity,20410
+Telangana,Solar,Installed Capacity,4842.1
+Telangana,Bio Power,Potential Capacity,1795
+Telangana,Bio Power,Installed Capacity,221.67
+Telangana,Small-Hydro,Potential Capacity,102.25
+Telangana,Small-Hydro,Installed Capacity,90.87
+Tripura,Hydro,Potential Capacity,0
+Tripura,Hydro,Installed Capacity,0
+Tripura,Wind,Potential Capacity,0
+Tripura,Wind,Installed Capacity,0
+Tripura,Solar,Potential Capacity,2080
+Tripura,Solar,Installed Capacity,21.71
+Tripura,Bio Power,Potential Capacity,34
+Tripura,Bio Power,Installed Capacity,0
+Tripura,Small-Hydro,Potential Capacity,46.86
+Tripura,Small-Hydro,Installed Capacity,16.01
+Uttarakhand,Hydro,Potential Capacity,14481
+Uttarakhand,Hydro,Installed Capacity,4285.35
+Uttarakhand,Wind,Potential Capacity,49
+Uttarakhand,Wind,Installed Capacity,0
+Uttarakhand,Solar,Potential Capacity,16800
+Uttarakhand,Solar,Installed Capacity,593.07
+Uttarakhand,Bio Power,Potential Capacity,308
+Uttarakhand,Bio Power,Installed Capacity,149.57
+Uttarakhand,Small-Hydro,Potential Capacity,1664.31
+Uttarakhand,Small-Hydro,Installed Capacity,233.82
+West Bengal,Hydro,Potential Capacity,6309
+West Bengal,Hydro,Installed Capacity,1341.2
+West Bengal,Wind,Potential Capacity,1281
+West Bengal,Wind,Installed Capacity,0
+West Bengal,Solar,Potential Capacity,6260
+West Bengal,Solar,Installed Capacity,320.62
+West Bengal,Bio Power,Potential Capacity,1742
+West Bengal,Bio Power,Installed Capacity,351.86
+West Bengal,Small-Hydro,Potential Capacity,392.06
+West Bengal,Small-Hydro,Installed Capacity,98.5
