@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
+import pickle
 
 st.set_page_config(layout="wide")
 st.markdown("""
@@ -35,7 +36,7 @@ default_index = sorted_states.index("Andhra Pradesh")
 
 selected_state = st.selectbox("🔍 Select a State", sorted_states, key="one", index=default_index )
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["🗂️Category Wise Electricity Consumption", "🔌Installed Capacity and Power Generation", "🌍Renewable Energy : Installed VS Potential Capacity","🔎 Economic Analysis of Electricity Consumption","🔮Future Consumption Prediction"])
+#tab1, tab2, tab3, tab4, tab5 = st.tabs(["🗂️Category Wise Electricity Consumption", "🔌Installed Capacity and Power Generation", "🌍Renewable Energy : Installed VS Potential Capacity","🔎 Economic Analysis of Electricity Consumption","🔮Future Consumption Prediction"])
 
 #  Tab 1: Donut Chart 
 def tab1_content():
@@ -505,15 +506,12 @@ def tab5_content():
       df5['GDP'] = pd.to_numeric(df5['GDP'])
       df5['Population'] = pd.to_numeric(df5['Population'])
 
-      # train model
-      X = df5[['Year', 'GDP', 'Population']]
-      y = df5['Per_Capita_Consumption(kWh)']
 
-      X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-      model = LinearRegression()
-      model.fit(X_train, y_train)
-      r2 = r2_score(y_test, model.predict(X_test))
 
+      # Load model
+      with open("trained_model.pkl", "rb") as f:
+       model = pickle.load(f)
+        
       st.subheader("🔌 Predict Per Capita Electricity Consumption - INDIA")
       st.divider()
       colA , colB = st.columns([0.4,0.6])
